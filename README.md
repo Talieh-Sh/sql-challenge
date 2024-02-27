@@ -15,6 +15,8 @@ The investigation and analysis is compartmentalized into:
 
 - **Data Modeling:**
 ERD sketching, with the help of tools such as QuickDBD.
+![Entity Relationship Diagram](ERD.png)
+
 - **Data Engineering:**
 Schema creation for each CSV file with consideration to data types, keys, and other constraints.
 Data importation from the CSVs into respective SQL tables.
