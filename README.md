@@ -13,11 +13,11 @@ The project employs six CSV files, which can be found in the Resources directory
 ## Project Structure
 The investigation and analysis is compartmentalized into:
 
-**-Data Modeling:**
+- **Data Modeling:**
 ERD sketching, with the help of tools such as QuickDBD.
-**-Data Engineering:**
+- **Data Engineering:**
 Schema creation for each CSV file with consideration to data types, keys, and other constraints.
 Data importation from the CSVs into respective SQL tables.
-**-Data Analysis:**
+- **Data Analysis:**
 Queries to derive insights such as employee details, recruitment specifics, departmental breakdowns, and more.
 
